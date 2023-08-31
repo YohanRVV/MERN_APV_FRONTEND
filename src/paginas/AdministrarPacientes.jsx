@@ -1,4 +1,4 @@
-import Formulario from "../components/formulario";
+import Formulario from "../components/Formulario";
 import ListadoPacientes from "../components/ListadoPacientes";
 import { useState } from "react";
 
